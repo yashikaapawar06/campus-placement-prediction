@@ -1,2 +1,5 @@
 # campus-placement-prediction
 campus placement prediction using machine learning 
+
+Placement of students is one of the most important objective of an educational institution. Reputation and yearly admissions of an institution invariably depend on the placements it provides it students with. Institutions make great efforts to achieve placements for their students’ .This will always be helpful to the institution. The objective is to predict the students getting placed for the current year by analyzing the data collected from previous year’s students. This model is proposed with an algorithm to predict the same. The data has been collected by the institution for which prediction is going to be done and by applying suitable data pre-processing techniques. This model is prepared by using Support Vector Machine [SVM] algorithm. This algorithm independently predict the results and we then compare the efficiency of the algorithm, which is based on the dataset. 
+This model will helps the placement cell to focus on the potential students and help them to improve their technical and social skills.
